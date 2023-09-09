@@ -28,5 +28,12 @@ To use PYTomp3, simply provide the URL of the YouTube video you want to convert,
 ## Disclaimer
 This tool is intended for educational and personal use only. Ensure that you have the necessary permissions to download and use content from YouTube. Respect copyright laws and ethical guidelines when using this tool.
 
+## License
+This project is licensed under the [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and distribute this project without any attribution or restrictions.
+
+---
+
+**Use this tool responsibly and in accordance with YouTube's terms of service and local copyright laws. The authors and contributors are not responsible for any misuse or legal consequences resulting from the use of this tool.**
+
 ## Known Issues
-Let me know! :D
+Let me know! (:
